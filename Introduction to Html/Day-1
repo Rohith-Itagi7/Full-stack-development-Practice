@@ -1,1 +1,53 @@
+How does Internet work?
+Internet is ntg but it helps to communicate between the client and the servers.
+for example : where client search a particular thing on internet the client ip adress and the DNS searched ip adress connect and further they exchange the things(DNS helps to connect server ip adrees)
+
+How does website work?
+The web server includes some file such as HTML,CSS,Java Script files from there we get acces to use.
+
+#Introduction to html
+HTML is a Hyper text Markup language which helps to construct the content of a web page.
+
+Learnt <h1></h1> to <h6></h6>
+<p></p>-paragraph elemnts
+<br />,<hr />-Break tag and horizontal rule tag 
+
+"""hands-on-practice"""
+<h1>Book</h1>
+  <h1>Chapter 1</h1>
+    <h2>Section 1</h2>
+    <h2>Section 2</h2>
+  <h1>Chapter 2</h1>
+    <h2>Section 1</h2>
+    <h2>Diagram 1</h2>
+  <h1>Chapter 3</h1>
+    <h2>Section 1</h2>
+    <h2>Section 2</h2>
+<hr>
+
+<p>Second paragraph. Suscipit adipiscing bibendum est ultricies. Tortor aliquam nulla facilisi cras fermentum. Eget aliquet nibh praesent
+    tristique magna. In hac habitasse platea dictumst vestibulum. Ornare quam viverra orci sagittis eu. Sit amet est
+    placerat in. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Turpis in eu mi bibendum neque egestas
+    congue. Enim eu turpis egestas pretium aenean pharetra magna ac placerat. Ultrices sagittis orci a scelerisque purus
+    semper eget duis at. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. Condimentum
+    lacinia quis vel eros donec ac odio.</p>
+
+<h>William Blake</h> 
+
+<p>17 south molton street<br/>
+London<br/>
+W1K 5QT<br/>
+UK<br/>
+</p>
+<hr/>
+ <h1>My best all time Movies</h1>
+ <h2>Top 3 Best Movies are</h2>
+ <hr/>
+ <h3>Money Heist</h3>
+ <p>This my favariot movie</p>
+ <h3>Honda Shine</h3>
+ <p>long driven</p>
+ <h3>Anime</h3>
+ <p>Bestever Movie</p>
+
 
