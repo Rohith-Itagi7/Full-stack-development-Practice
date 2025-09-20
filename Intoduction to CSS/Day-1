@@ -1,1 +1,36 @@
+In today's session I learnt types of css and diffrent methods to add css
+Three ar etree methods 
+1)Inline-Concentrating on only one elment in Html file
+Exanple:
+<html style="color:red;"</html>
+2)Internal-Concentrating only one a one webpage.
+Example:
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <title>Internal</title>
+</head>
+<style>
+  h1{
+    color:red;
+  }
+</style>
+
+<body>
+<h1>Style Me in Red!</h1>
+</body>
+
+</html>
+
+3)External-Used in overall website using external style.css file
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>External</title>
+</head>
+<body>
+  <h1>Style Me in Green</h1>
+   <link rel="stylesheet" href="./style.css"
+</body>
+</html>
